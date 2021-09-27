@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jinbeom7029
 - 👀 I’m interested in pipeline & workflow
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on our work
+- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
 <!---
